@@ -1,5 +1,4 @@
-# awesome-blockchain
-## Curated list of blockchain and general cryptocurrency resources
+## A Curated List of Blockchain and General Cryptocurrency Resources
 
 # Table of Contents
 
