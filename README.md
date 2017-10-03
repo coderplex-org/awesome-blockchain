@@ -17,6 +17,7 @@ A Curated List of Blockchain and General Cryptocurrency Resources
 - [Youtube Channels](#youtube-channels)
 - [Assets](#assets)
 - [Private Blockchains](#private-blockchain)
+- [Other resources](#other-resources) 
 
 
 
@@ -252,3 +253,6 @@ A Curated List of Blockchain and General Cryptocurrency Resources
 ### Private Blockchain
 * [HyperLedger](https://www.hyperledger.org/)
 * [Openchain](https://www.openchain.com/)
+
+### Other Resources
+- [Etherium List](https://github.com/Scanate/Ethlist)
