@@ -255,4 +255,4 @@ A Curated List of Blockchain and General Cryptocurrency Resources
 * [Openchain](https://www.openchain.com/)
 
 ### Other Resources
-- [Etherium List](https://github.com/Scanate/Ethlist)
+- [Ethereum List](https://github.com/Scanate/Ethlist)
