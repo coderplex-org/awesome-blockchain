@@ -249,6 +249,7 @@ A Curated List of Blockchain and General Cryptocurrency Resources
 * [EverLedger](https://www.everledger.io/)
 * [OpenPublish](https://github.com/blockai-unofficial/openpublish)
 * [Open Assets Protocol](https://github.com/OpenAssets/open-assets-protocol)
+* [DeBank](https://debank.com/)
 
 ### Private Blockchain
 * [HyperLedger](https://www.hyperledger.org/)
